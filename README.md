@@ -12,7 +12,7 @@
 * [CC0について (Creative Commons Japan)](https://creativecommons.jp/sciencecommons/aboutcc0/)
 
 ## Notice
-* 静的データリストの更新はおおむね1週間を予定しています。
+* 静的データリストの更新はおおむね1週間に1回を予定しています。
   * 動的データリストについては不定期となります。 
 * 試験公開につき、ファイルの内容について項目名などを変更する場合があります。
 
