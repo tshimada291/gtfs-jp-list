@@ -439,7 +439,6 @@ f4300101,九州産交バス・産交バス,43,熊本県,1,https://km.bus-vision.
 f4300201,熊本電鉄バス,43,熊本県,1,https://km.bus-vision.jp/kumamoto/view/opendataKuma.html,20210430,CC BY 4.0,1,http://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed,dentetsu.zip,,2021/4/30改正
 f4300301,熊本バス,43,熊本県,1,https://km.bus-vision.jp/kumamoto/view/opendataKuma.html,20210524,CC BY 4.0,1,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,kumabus.zip,,2021/5/24改正（一部運休）
 f4300401,熊本都市バス,43,熊本県,1,https://km.bus-vision.jp/kumamoto/view/opendataKuma.html,20210506,CC BY 4.0,1,http://km.bus-vision.jp/gtfs/kumabus/gtfsFeed,toshibus.zip,,2021/5/6～
-f4300701,八代市乗合タクシー,43,熊本県,1,https://www.city.yatsushiro.lg.jp/kiji00310058/index.html,20210422,(オープンデータとして公開),0,https://www.city.yatsushiro.lg.jp/kiji00310058/3_10058_61711_up_wdog75ez.zip,3_10058_61711_up_wdog75ez.zip,,2020/12/1改正
 f4300701,八代市乗合タクシー,43,熊本県,1,https://www.city.yatsushiro.lg.jp/kiji00310058/index.html,20210428,(オープンデータとして公開),0,https://www.city.yatsushiro.lg.jp/kiji00310058/3_10058_62161_up_q8s6ggyz.zip,3_10058_62161_up_q8s6ggyz.zip,,2020/12/1改正
 f4400100,中津市コミュニティバス,44,大分県,1,https://www.city-nakatsu.jp/doc/2019072300060/,20191011,CC BY 4.0,1,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/GTFS_Nakatsu_city.zip,GTFS_Nakatsu_city.zip,路線別ファイルあり,
 f4400101,中津市コミュニティバス　中津地域　三保線,44,大分県,1,https://www.city-nakatsu.jp/doc/2019072300060/,20210326,CC BY 4.0,1,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/M1_Miho.zip,M1_Miho.zip,一括ダウンロードファイルあり,
