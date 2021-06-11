@@ -11,6 +11,15 @@
 [Creative Commons — CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 * [CC0について (Creative Commons Japan)](https://creativecommons.jp/sciencecommons/aboutcc0/)
 
+## Attribute
+* 静的データリスト
+  * official：公式・公認のデータであれば1、個人等による作成データの場合は0としています。
+  * fixed_url：配信元のzipデータURLが固定URLであれば1、なければ0としています。（直近の状況をみて指定しているため、変わる場合があります。）
+  * api_key：APIキーが必要であれば1、なければ0としています。
+* 動的データリスト
+  * rt_api_key：APIキーが必要であれば1、なければ0としています。
+  * interval_sec：データ更新間隔を秒単位で記してあります。（配信サイトに記載ない場合は空欄としています。）
+
 ## Notice
 * 静的データリストの更新はおおむね1週間に1回を予定しています。
   * 動的データリストについては不定期となります。 
